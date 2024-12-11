@@ -62,7 +62,7 @@
 		"swup": "4.8.1",
 		"tailwindcss": "3.4.16",
 		"typescript-esbuild": "0.4.10",
-		"zod": "3.24.0"
+		"zod": "3.24.1"
 	},
 	"publishConfig": {
 		"access": "public"
